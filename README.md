@@ -6,7 +6,7 @@ Skills section:
 - JavaScipt, ReactJs, VueJs, NodeJs. C, C++, Java.
 
 
-[![Anush's github stats](https://github-readme-stats.vercel.app/api?username=apascerprano)](https://github.com/anuraghazra/github-readme-stats)
+[![Anush's github stats](https://github-readme-stats.vercel.app/api?username=pascerprano)](https://github.com/anuraghazra/github-readme-stats)
 <details>
   <summary>
     <i> Click <b> Here </b> to know more about me </i>
